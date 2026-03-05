@@ -13,16 +13,16 @@ Includes:
 -Awards
 -Contact information (Embedded CV PDF viewer, LinkedIn redirect and Email contact functionality)
 
-# Depoloyment
-Hosted via Netlify with a custom domain name aquired from FastHosts.
+# Deployment
+Hosted via Netlify with a custom domain name acquired from FastHosts.
 
 # Technologies
 -HTML5
 -CSS3
--Netlify Hosting & Depolyment Service
+-Netlify Hosting & Deployment Service
 
 # Features
--Mobile and Desktop Device Optimization
+-Mobile and Desktop Device Optimisation
 -Responsive Design
 -Professional and Intuitive User Interface
 
