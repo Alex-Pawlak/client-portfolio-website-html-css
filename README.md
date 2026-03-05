@@ -13,6 +13,9 @@ Includes:
 - Awards
 - Contact information (Embedded CV PDF viewer, LinkedIn redirect and Email contact functionality)
 
+# Preview
+![Website Preview](website-preview.png)
+
 # Deployment
 Hosted via Netlify with a custom domain name acquired from FastHosts.
 
@@ -32,6 +35,7 @@ Hosted via Netlify with a custom domain name acquired from FastHosts.
 - Analysing client requirements and delivering them
 - Hosting and deployment of websites 
 - Deployment to GitHub
+
 
 ## Project Structure
 ```
