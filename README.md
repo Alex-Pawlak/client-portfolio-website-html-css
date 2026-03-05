@@ -15,7 +15,6 @@ Includes:
 
 # Preview
 ![Website Preview (Screenshot)](website-preview.png)
-![Mobile View Demonstration](/website-mobile-view-video.mov)
 
 # Deployment
 Hosted via Netlify with a custom domain name acquired from FastHosts.
