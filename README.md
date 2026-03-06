@@ -43,7 +43,7 @@ Hosted via Netlify with a custom domain name acquired from FastHosts.
  ├──Prototype1
  ├──Prototype2
  ├──Prototype3
- ├──Prototype4 (newest)
+ ├──Prototype4 (most recent)
     ├──index.html
     ├──style1.css
     ├──images.png
