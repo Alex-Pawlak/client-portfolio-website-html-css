@@ -150,9 +150,9 @@ section .downloadbutton {
 }
 
 /* Increase font size and spacing on small screens */
-@media (max-width: 768px) { /* Typical breakpoint for tablets/phones */
+@media (max-width: 768px) { /* typical breakpoint for tablets/phones */
   body {
-    font-size: 18px; /* increase base font size */
+    font-size: 18px; 
     line-height: 1.6;
   }
 
@@ -204,13 +204,3 @@ section .downloadbutton {
   margin-top: -60px; /* negative navbar height to offset scrolling */
   visibility: hidden;
 }
-
-
-
-
-
-
-
-
-
-
